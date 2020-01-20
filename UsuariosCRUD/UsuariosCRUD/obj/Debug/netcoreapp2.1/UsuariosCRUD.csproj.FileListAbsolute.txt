@@ -1,0 +1,17 @@
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.AssemblyInfoInputs.cache
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.AssemblyInfo.cs
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\UsuariosCRUD.deps.json
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\UsuariosCRUD.runtimeconfig.json
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\UsuariosCRUD.runtimeconfig.dev.json
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\UsuariosCRUD.dll
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.csprojAssemblyReference.cache
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.RazorAssemblyInfo.cache
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.RazorAssemblyInfo.cs
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.RazorTargetAssemblyInfo.cache
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\bin\Debug\netcoreapp2.1\UsuariosCRUD.pdb
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.dll
+C:\@Desenv\microservice-usuarios\UsuariosCRUD\UsuariosCRUD\obj\Debug\netcoreapp2.1\UsuariosCRUD.pdb
