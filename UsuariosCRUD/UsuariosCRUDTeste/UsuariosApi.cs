@@ -1,24 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Xunit;
+﻿using Xunit;
 using UsuariosCRUD;
-using Microsoft.AspNetCore.TestHost;
-using Microsoft.AspNetCore.Hosting;
 using System.Net.Http;
+using UsuariosCRUDTeste.Startups_Configs;
+using System.Threading.Tasks;
+using System.Net;
 
 namespace UsuariosCRUDTeste
 {
-    public class UsuariosApi
+    public class UsuariosApi : IClassFixture<CustomWebApplicationFactory<Startup>>
     {
         private readonly HttpClient _client;
 
-        public UsuariosApi()
+        public UsuariosApi(CustomWebApplicationFactory<Startup> factory)
         {
-            var server = new TestServer(new WebHostBuilder()
-                .UseEnvironment("Development")
-                .UseStartup<Startup>());
-            _client = server.CreateClient();
+            _client = factory.CreateClient();
+        }
+
+        [Fact]
+        public async Task GetUsuarios()
+        {
+            var response = await _client.GetAsync("api/v1/Usuarios");
+            response.EnsureSuccessStatusCode();
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
     }
 }
